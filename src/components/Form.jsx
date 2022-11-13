@@ -30,4 +30,6 @@ const Form = (props) => {
   );
 };
 
+document.getElementById("root").style.textDecoration = "line-through";
+
 export default Form;
